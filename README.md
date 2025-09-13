@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jainil Desai
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React Development
+- 🌱 I’m currently learning NextJs and Typescript
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 Use the below links to reach me 😊
 
