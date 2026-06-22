@@ -25,15 +25,8 @@ jobs:
           user: jainilDesai
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""                       # no header/activity/etc — image only
           config_timezone: Asia/Kolkata
-          # 3D isometric contribution calendar
+          # 3D isometric contribution calendar (the only thing rendered)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # language breakdown
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          # coding habits
-          plugin_habits: yes
-          plugin_habits_charts: yes
