@@ -1,25 +1,167 @@
-- 👋 Hi, I’m Jainil Desai
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning NextJs and Typescript
-- 💞️ I’m looking to collaborate on projects and hackathons
-- 📫 Use the below links to reach me 😊
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  HEADER — animated capsule banner                              ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<a href="https://github.com/jainilDesai">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jainil%20Desai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20Web%20%E2%80%A2%20Building%20cool%20things&descAlignY=58&descSize=18" alt="header"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jainil_desai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainil-desai-ab51b9275/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jainil_desai53) 
+<!-- typing tagline -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%2B+TypeScript+enthusiast;Learning+Rust+%26+systems+programming;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jainilDesai&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
+  <a href="https://github.com/jainilDesai?tab=followers"><img src="https://img.shields.io/github/followers/jainilDesai?label=Followers&style=flat&color=36BCF7" alt="followers" /></a>
+</div>
 
-# 💻 Tech Stack:
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jainilDesai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jainilDesai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jainilDesai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jainilDesai.&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  NEOFETCH — terminal-style about card                          ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```yaml
+                  .--.            jainil@github
+                 |o_o |          ─────────────────────────────────
+                 |:_/ |          OS:           Web (Linux-native)
+                //   \ \         Host:          Full-Stack Developer
+               (|     | )        Uptime:        since Aug 2024
+              /'\_   _/`\        Editor:        VS Code / Neovim
+              \___)=(___/        Shell:         zsh + tmux
 
----
-[![](https://visitcount.itsvg.in/api?id=jainilDesai&icon=0&color=0)](https://visitcount.itsvg.in)
+   Languages.Programming:  JavaScript, TypeScript, Python, C, Rust, Java
+   Languages.Markup:       HTML5, CSS3, EJS, Liquid
+   Stack.Frontend:         React, Next.js, TailwindCSS, Bootstrap
+   Stack.Backend:          Node.js, Express, MongoDB, PostgreSQL
+   Stack.Tools:            Git, Postman, npm, Linux
 
+   Currently.Learning:     Next.js • Rust • systems programming
+   Currently.Building:     full-stack apps, hackathon projects, dev tools
+   Open.To:                collaboration, hackathons, freelance
 
+   Contact.Email:          contact@jainildesai.com
+   Contact.LinkedIn:       in/jainil-desai-ab51b9275
+   Contact.X:              @jainil_desai53
+```
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TECH STACK — skillicons                                       ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Languages](https://skillicons.dev/icons?i=js,ts,python,c,rust,java,html,css)
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap)
+
+![Tools](https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,vscode,linux,npm)
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  STATS — cards trio                                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jainilDesai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainilDesai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jainilDesai&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  3D CONTRIBUTION CALENDAR — generated by metrics workflow      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jainilDesai/jainilDesai/main/github-metrics.svg" alt="3D contribution calendar" />
+</div>
+
+> _Auto-generated daily by the metrics workflow — see `.github/workflows/metrics.yml`._
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ACTIVITY GRAPH                                                ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jainilDesai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SNAKE — eats the contribution grid (generated by workflow)    ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🐍 Watch the snake eat my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainilDesai/jainilDesai/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jainilDesai/jainilDesai/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jainilDesai/jainilDesai/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  FEATURED PROJECTS                                             ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jainilDesai/Tomato">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=Tomato&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/Stocksage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=Stocksage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/leetcode-notion-sync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=leetcode-notion-sync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/coreinventory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=coreinventory&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/kernel-queue">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=kernel-queue&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/jainil-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=jainil-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TROPHIES                                                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jainilDesai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SOCIALS                                                       ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🌐 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainil-desai-ab51b9275/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jainil_desai53)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jainil_desai/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jainildesai.com)
+
+</div>
+
+<!-- random dev quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</div>
+
+<!-- footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer"/>
