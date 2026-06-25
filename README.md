@@ -44,28 +44,41 @@
 ```
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECTS & CONTRIBUTIONS — vincentkoc-style list             ║ -->
+<!-- ║  FEATURED PROJECTS                                             ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-Some projects I've built and open-source repos I've contributed to:
+## 🚀 Featured Projects
 
-**🚀 Built by me**
+<div align="center">
 
-- 🍅 [Tomato](https://github.com/jainilDesai/Tomato) — Full-stack food delivery app (React, MongoDB, Express, Node, Stripe).
-- 📈 [Stocksage](https://github.com/jainilDesai/Stocksage) — Stock-market insights / tracking web app.
-- 📦 [coreinventory](https://github.com/jainilDesai/coreinventory) — Inventory management system (TypeScript).
-- 🔗 [leetcode-notion-sync](https://github.com/jainilDesai/leetcode-notion-sync) — Sync solved LeetCode problems into Notion.
-- 📚 [My-Bookshelf](https://github.com/jainilDesai/My-Bookshelf) — Book storage, rating & review platform for readers.
-- ⚙️ [kernel-queue](https://github.com/jainilDesai/kernel-queue) — Low-level queue implementation in C.
-- 🤟 [ASL Alphabet Detector](https://github.com/jainilDesai/ASL_Alphabet_Detector) — Sign-language alphabet recognition (Python).
-- 🏆 [clash-royale-dashboard](https://github.com/jainilDesai/clash-royale-dashboard) — Clash Royale stats dashboard (TypeScript).
-- 🌐 [jainil-portfolio](https://github.com/jainilDesai/jainil-portfolio) — My personal portfolio site.
+<a href="https://github.com/jainilDesai/Stocksage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=Stocksage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/leetcode-notion-sync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=leetcode-notion-sync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/jainilDesai/ASL_Alphabet_Detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=ASL_Alphabet_Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
 
-**🤝 Contributed to**
+</div>
 
-- 🩺 [saurabh-44/angio](https://github.com/saurabh-44/angio) — 8 merged PRs.
-- 🥫 [openfoodfacts-web](https://github.com/openfoodfacts/openfoodfacts-web) — Content pages & translations for Open Food Facts.
-- 🦞 [openclaw/openclaw](https://github.com/openclaw/openclaw) — Personal AI assistant; open-source contributions.
-- 🧩 [Shudevyam](https://github.com/DeepayuNinama/Shudevyam) — Merged PR contribution.
+> 🌱 **[Angio](https://github.com/saurabh-44/angio)** — Plant-management platform where donors purchase plants and partner NGOs handle all the planting and maintenance.
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  OPEN-SOURCE CONTRIBUTIONS                                     ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+## 🤝 Open-Source Contributions
+
+<div align="center">
+
+<a href="https://github.com/openclaw/openclaw">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+<a href="https://github.com/openfoodfacts/openfoodfacts-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openfoodfacts&repo=openfoodfacts-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
+
+</div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  TECH STACK — skillicons                                       ║ -->
