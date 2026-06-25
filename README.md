@@ -65,8 +65,6 @@
 
 </div>
 
-> 🌱 **Angio** — Plant-management platform where donors purchase plants and partner NGOs handle all the planting and maintenance.
-
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  OPEN-SOURCE CONTRIBUTIONS                                     ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
