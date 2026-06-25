@@ -1,9 +1,32 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  HEADER — animated capsule banner                              ║ -->
+<!-- ║  NEOFETCH — ASCII portrait + about card (top of profile)      ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-<a href="https://github.com/jainilDesai">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jainil%20Desai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20Web%20%E2%80%A2%20Building%20cool%20things&descAlignY=58&descSize=18" alt="header"/>
-</a>
+
+```text
+       __      _       _ __
+      / /___ _(_)___  (_) /
+ __  / / __ `/ / __ \/ / /
+/ /_/ / /_/ / / / / / / /
+\____/\__,_/_/_/ /_/_/_/
+
+
+               .   .:--: ..                  jainil@github
+             .--::==--=+*#*=                 ──────────────────────────────
+            =##***##*#%@@@+#++-               OS         Web (Linux-native)
+           *%%%@@%%@@@#**%++%@#.              Host       Full-Stack Developer
+          +@@@@@@@@@#+-  =**%@%+.             Uptime     since Aug 2024
+         .@@@@@@@@%%+--=+**+#@%*:             Editor     VS Code / Neovim
+         +@@@@#**###*-:#%#*+=%@@-             Langs      JS · TS · Python · C · Rust
+         :@@@@++***#+  -+++=-+@@:             Stack      React · Next · Node · Mongo
+          :**%=======---:-----##.             Learning   Next.js · Rust · systems
+           .*#+===**%##%++====*:
+            =***++##+++*##+++*-               LinkedIn   in/jainil-desai-ab51b9275
+            :@@**++=+**+=++**#                X          @jainil_desai53
+             +@%**##%###***+%=                Email      contact@jainildesai.com
+              -*-+#@@@@@@#+-:
+                -==+**#*++==:.
+             . :======+=+++=+*:
+```
 
 <!-- typing tagline -->
 <div align="center">
@@ -14,34 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=jainilDesai&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
   <a href="https://github.com/jainilDesai?tab=followers"><img src="https://img.shields.io/github/followers/jainilDesai?label=Followers&style=flat&color=36BCF7" alt="followers" /></a>
 </div>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  NEOFETCH — terminal-style about card                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-```yaml
-                  .--.            jainil@github
-                 |o_o |          ─────────────────────────────────
-                 |:_/ |          OS:           Web (Linux-native)
-                //   \ \         Host:          Full-Stack Developer
-               (|     | )        Uptime:        since Aug 2024
-              /'\_   _/`\        Editor:        VS Code / Neovim
-              \___)=(___/        Shell:         zsh + tmux
-
-   Languages.Programming:  JavaScript, TypeScript, Python, C, Rust, Java
-   Languages.Markup:       HTML5, CSS3, EJS, Liquid
-   Stack.Frontend:         React, Next.js, TailwindCSS, Bootstrap
-   Stack.Backend:          Node.js, Express, MongoDB, PostgreSQL
-   Stack.Tools:            Git, Postman, npm, Linux
-
-   Currently.Learning:     Next.js • Rust • systems programming
-   Currently.Building:     full-stack apps, hackathon projects, dev tools
-   Open.To:                collaboration, hackathons, freelance
-
-   Contact.Email:          contact@jainildesai.com
-   Contact.LinkedIn:       in/jainil-desai-ab51b9275
-   Contact.X:              @jainil_desai53
-```
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  FEATURED PROJECTS                                             ║ -->
