@@ -51,16 +51,16 @@
 <div align="center">
 
 <a href="https://github.com/jainilDesai/Stocksage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=Stocksage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=Stocksage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 <a href="https://github.com/jainilDesai/leetcode-notion-sync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=leetcode-notion-sync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=leetcode-notion-sync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 <a href="https://github.com/jainilDesai/ASL_Alphabet_Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=ASL_Alphabet_Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=ASL_Alphabet_Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 <a href="https://github.com/saurabh-44/angio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh-44&repo=angio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh-44&repo=angio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 
 </div>
@@ -73,10 +73,10 @@
 <div align="center">
 
 <a href="https://github.com/openclaw/openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 <a href="https://github.com/openfoodfacts/openfoodfacts-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openfoodfacts&repo=openfoodfacts-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openfoodfacts&repo=openfoodfacts-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&v=3" />
 </a>
 
 </div>
