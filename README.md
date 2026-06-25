@@ -59,10 +59,13 @@
 <a href="https://github.com/jainilDesai/ASL_Alphabet_Detector">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jainilDesai&repo=ASL_Alphabet_Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
 </a>
+<a href="https://github.com/saurabh-44/angio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh-44&repo=angio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+</a>
 
 </div>
 
-> 🌱 **[Angio](https://github.com/saurabh-44/angio)** — Plant-management platform where donors purchase plants and partner NGOs handle all the planting and maintenance.
+> 🌱 **Angio** — Plant-management platform where donors purchase plants and partner NGOs handle all the planting and maintenance.
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  OPEN-SOURCE CONTRIBUTIONS                                     ║ -->
